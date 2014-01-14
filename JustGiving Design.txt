@@ -1,0 +1,18 @@
+Create New Project - Unit Test Project
+Create Sub Folders
+NuGet - Selenium, Chrome Driver, IE Driver
+Apply Specflow Extensions
+NuGet - Specflow and SpecRun
+
+
+Design User Story and Feature
+Gather User Stories to build Test Logic Interface
+Identify Objects
+Build Page Object Model
+
+Implemented Test Logic Interface to build Test Logic Class and Members
+ 
+Generate Test Definitions from SpecFlow Feature
+Build Test Classes to cover TDD
+
+Call Methods from Test Logic to apply requirements to BDD and TDD Tests
