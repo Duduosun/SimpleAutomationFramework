@@ -10,7 +10,7 @@ Gather User Stories to build Test Logic Interface
 Identify Objects
 Build Page Object Model
 
-Implemented Test Logic Interface to build Test Logic Class and Members
+Implement Test Logic Interface to build Test Logic Class and Members
  
 Generate Test Definitions from SpecFlow Feature
 Build Test Classes to cover TDD
