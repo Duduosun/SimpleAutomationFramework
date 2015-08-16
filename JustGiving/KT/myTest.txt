@@ -24,3 +24,8 @@ Checkout
 - Guest User
 - First Time User
 - Existing User
+
+Detailed Navigation
+- Search
+- Pagination
+- Filters
